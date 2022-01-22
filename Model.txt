@@ -1,0 +1,15 @@
+Artikelzustand
+Einschränkungen
+Marke
+Modell
+Baujahr
+Plattform
+Typ
+Motor
+
+Artikelmerkmale
+Artikelzustand
+Referenznummer(n)OEM
+Referenznummer(n)OE
+Herstellernummer
+Hersteller	

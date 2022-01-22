@@ -1,0 +1,52 @@
+body {
+    background-color: #c7c1c1;
+    color: #1A292F;
+    margin-top: 5rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #FF5212;
+}
+
+ul {
+    margin: 0;
+}
+
+.bg-steel {
+    background-color: #1A292F;
+}
+
+.site-header .navbar-nav .nav-link {
+    color: #FF5212;
+}
+.site-header .navbar-nav .nav-hover {
+    color: #FF5212;
+}
+.site-header .navbar-nav .nav-link.active {
+    font-weight: 500;
+}
+
+.content-section {
+    background-color: #FF5212;
+    padding: 10px 20px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    margin-bottom: 20px;
+}
+
+.account-img {
+    height: 110px;
+    width: 110px;
+    margin-right: 20px;
+    margin-bottom: 16px;
+}
+
+.account-heading {
+    font-size: 2.5rem;
+}
+
